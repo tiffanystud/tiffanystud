@@ -13,6 +13,9 @@ I enjoy building projects, experimenting with new technologies, and improving my
 <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
   <img width="50" height="50" src="https://img.icons8.com/ios/50/sqlite.png" alt="sqlite"/>
+<img width="50" height="50" src="[https://img.icons8.com/ios/50/sqlite.png](https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000)" alt="java"/>
+
+
 
 </p>
 
